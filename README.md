@@ -19,7 +19,8 @@ Logistic Regression is a statistical and machine-learning techniques classifying
 The dataset is available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The dataset provides the patients’ information.
 
 ## Libraries Used -
-Pandas (for data manipulation)
-Matplotlib (for data visualization)
-Seaborn (for data visualization)
-Scikit-Learn (for data modeling)
+
+* Pandas (for data manipulation)
+* Matplotlib (for data visualization)
+* Seaborn (for data visualization)
+* Scikit-Learn (for data modeling)
