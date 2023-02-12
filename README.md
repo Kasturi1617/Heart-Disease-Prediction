@@ -37,7 +37,7 @@ prevalentHyp: whether or not the patient was hypertensive
 diabetes: whether or not the patient had diabetes
 Risk factors from the first physical examination of the patient.
 
-totChol: total cholesterol level
+`totChol`: total cholesterol level
 sysBP: systolic blood pressure
 diaBP: diastolic blood pressure
 BMI: Body Mass Index
